@@ -1,0 +1,20 @@
+body{
+   margin:0px;
+   text-align:center;
+}
+
+button{
+   border-radius: 15px;
+   margin-top:200px;
+   padding:20px;
+   font-size:28px;
+   background-color:green;
+   color:white;
+   cursor:pointer;
+}
+
+#password{
+   margin-top:30px;
+   font-size:40px;
+   color:black;
+}
